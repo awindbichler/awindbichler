@@ -14,7 +14,10 @@ We build our cloud in over 90 countries around the globe.
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexanderwindbichler/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/windbichler)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/x-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://x.com/awindbichler)<br>
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/x-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://x.com/awindbichler)
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%23D92E65.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/windbichler.alexander)<br>
+
+
 
 ## Disclaimer
 In case you have feedback to any code I might commit in future:
